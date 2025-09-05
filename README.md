@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # API FastAPI - Exemplo Simples
 
 Esta API foi desenvolvida em Python utilizando o framework FastAPI.
