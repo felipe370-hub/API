@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # API FastAPI - Exemplo Simples
 
 Esta API foi desenvolvida em Python utilizando o framework FastAPI.
@@ -49,10 +49,7 @@ Esta API foi desenvolvida em Python utilizando o framework FastAPI.
    Acesse: http://127.0.0.1:8000/
 
 
+6.Configuro o Render para poder lê a API
 
-> [https://seu-link-no-render.onrender.com](https://seu-link-no-render.onrender.com)
-
----
-
-Se tiver dúvidas, abra uma issue ou entre em contato!
-
+   **Meu link no Render **
+   https://api-1-ikdc.onrender.com
